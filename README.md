@@ -1,3 +1,5 @@
+origin: https://github.com/CeetronSolutions/openzgy
+
 # openzgy
 A wrapper around the native C++ part of the OpenZGY library from https://community.opengroup.org/osdu/platform/domain-data-mgmt-services/seismic/open-zgy
 
